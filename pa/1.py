@@ -31,7 +31,7 @@ print(re.search(pat,string))
 
 
 
-
+print('这是acer \"的问候.')
 
 
 

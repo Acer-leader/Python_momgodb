@@ -33,9 +33,8 @@ print(re.search(pat,string))
 
 print('这是acer \"的问候.')
 
-
-
-
+list = [0,11,2,3,4,5,6,7]
+print(list[:5])
 
 
 

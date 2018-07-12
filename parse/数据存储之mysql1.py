@@ -6,9 +6,9 @@ cursor = db.cursor()
 def create():
     # 建一个字典
     data =  {
-        'id': '2012000p',
-        'name': 'waa',
-        'age': 22
+        'id' : 1,
+        'name': '3waa',
+        'age':7233
     }
     table = 'students'
     keys = ','.join(data.keys())
